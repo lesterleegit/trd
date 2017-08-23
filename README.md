@@ -1,4 +1,4 @@
-trd
+yii2-trd
 ===
 trd
 
