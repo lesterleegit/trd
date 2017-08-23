@@ -1,0 +1,25 @@
+{
+  "name": "lesterleegit/yii2-trd",
+  "description": "trd",
+  "type": "yii2-extension",
+  "url": "https://github.com/lesterleegit/trd",
+  "keywords": [
+    "yii2",
+    "extension"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Lester Lee",
+      "email": "itslester@qq.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "lesterleegit\\trd\\": ""
+    }
+  }
+}
